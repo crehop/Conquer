@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mkremins:fanciful:0.3.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mkremins/fanciful/0.3.2-SNAPSHOT/fanciful-0.3.2-20150109.234753-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mkremins/fanciful/0.3.2-SNAPSHOT/fanciful-0.3.2-20150109.234753-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mkremins/fanciful/0.3.2-SNAPSHOT/fanciful-0.3.2-20150109.234753-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

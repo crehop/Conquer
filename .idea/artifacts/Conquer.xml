@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Conquer">
+    <output-path>$PROJECT_DIR$/../Compiled</output-path>
+    <root id="archive" name="Conquer.jar">
+      <element id="module-output" name="Conquer" />
+    </root>
+  </artifact>
+</component>

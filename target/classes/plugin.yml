@@ -1,0 +1,9 @@
+main: code.young.conquer.Conquer
+name: Conquer
+version: 1.0
+author: Young
+depend: [WorldEdit, Towny]
+
+commands:
+  conquer:
+    aliases: [conquer]
